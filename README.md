@@ -19,8 +19,3 @@ $ python -m pip install -r requirements.txt
 >>> client.log("Auth Token : " + str(line.authToken))
 ```
 
-## Author
-Muhammad Mursalin Darmamawan / [@Alin](https://www.instagram.com/muhmursalind)
-
-## Author Linepy
-Fadhiil Rachman / [@fadhiilrachman](https://www.instagram.com/fadhiilrachman)
